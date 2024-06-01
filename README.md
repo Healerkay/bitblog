@@ -36,7 +36,7 @@ List the ready features here:
 
 
 ## Screenshots
-![all posts screenshot](./assets/images/screenshots/Screenshot-Bit%20Blog%20all%20posts.png)
+![all posts screenshot](./assets/images/screenshots/bit.png)
 
 ![bussines-category screenshot](./assets/images/screenshots/Screenshot-Bussines.png)
 
